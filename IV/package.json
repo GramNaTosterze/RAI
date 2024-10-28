@@ -1,0 +1,21 @@
+{
+  "name": "book_library",
+  "version": "1.0.0",
+  "description": "Implementacja logiki biznesowej i testów jednostkowych",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Krzysiu",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.25.7",
+    "@babel/core": "^7.25.8",
+    "@babel/preset-env": "^7.25.8",
+    "chai": "^4.5.0",
+    "mocha": "^10.7.3"
+  }
+}
